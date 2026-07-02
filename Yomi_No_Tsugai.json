@@ -1,0 +1,41 @@
+{
+  "title": "Yomi No Tsugai",
+  "description": "O mais novo mangá da criadora de Fullmetal Alchemist, Hiromu Arakawa, chega com força total!",
+  "artist": "Arakawa Hiromu",
+  "author": "Arakawa Hiromu",
+  "cover": "https://mangadex.org/covers/b340d77a-6bfe-4f33-8352-4d305ecf264c/902dbfb3-6ebb-4f6f-8eda-6f161420619c.jpg",
+  "chapters": {
+    "003": {
+      "title": "Dera e Hana",
+      "last_updated": "1783020593",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7lp3wkxyx"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Amor e Verdade",
+      "last_updated": "1783020595",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jpqm3348"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Direita e Esquerda",
+      "last_updated": "1783020597",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqp8kqd72"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "Manhã e Noite",
+      "last_updated": "1783020605",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy25boezyl"
+      },
+      "volume": "01"
+    }
+  }
+}
